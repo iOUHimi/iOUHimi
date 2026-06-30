@@ -1,9 +1,17 @@
 [
    {
-        "imageurl" : "https://www.dropbox.com/s/2kvggpo1yt2f7q5/Screenshot_2022-12-15-18-40-01-93_f117e9cfab7bf1eb3cda40957637e3ed.jpg?dl=1",
-        "title" : "Azure Mobile",
-        "titleBig" : "Открытие Wolf Russia",
-        "url": "https://vk.com/azuremobilerp",
-        "imageFullUrl":"https://vk.com/azuremobilerp"
+        "imageurl" : "https://i.ytimg.com/vi/IpllWGamTx4/maxresdefault.jpg",
+        "title" : "Открытое тестирование",
+        "url" : ""
+   },
+   {
+        "imageurl" : "https://firavius.github.io/weikton/image_5.jpg",
+        "title" : "Перезагрузка проекта",
+        "url" : ""
+   },
+      {
+        "imageurl" : "https://firavius.github.io/weikton/image_4.jpg",
+        "title" : "Завезли новые авто",
+        "url" : ""
    }
 ]
